@@ -72,3 +72,8 @@ figure {
     margin-right: auto;
     width: 50%;
   }
+
+.o-column {
+    float: left;
+    width: 50%;
+  }
